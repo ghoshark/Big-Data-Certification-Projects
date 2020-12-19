@@ -1,0 +1,110 @@
+[
+  {
+    "_id": "5da8b6d8bba999d2eef070c2",
+    "status": "C",
+    "amount": 250,
+    "cust_id": "A123"
+  },
+  {
+    "_id": "5da8b6d8d2b843de024b5248",
+    "status": "C",
+    "amount": 625,
+    "cust_id": "B234"
+  },
+  {
+    "_id": "5da8b6d8db45eabf348ceee5",
+    "status": "C",
+    "amount": 100,
+    "cust_id": "A123"
+  },
+  {
+    "_id": "5da8b6d8d1d53a0b6eb82769",
+    "status": "B",
+    "amount": 200,
+    "cust_id": "B234"
+  },
+  {
+    "_id": "5da8b6d8480444d8771415d7",
+    "status": "C",
+    "amount": 200,
+    "cust_id": "C345"
+  },
+  {
+    "_id": "5da8b6d8f66b621690ac05da",
+    "status": "B",
+    "amount": 125,
+    "cust_id": "C345"
+  },
+  {
+    "_id": "5da8b6d86ad849725f977d9d",
+    "status": "B",
+    "amount": 750,
+    "cust_id": "D456"
+  },
+  {
+    "_id": "5da8b6d8ce3f77bf231e5ff4",
+    "status": "C",
+    "amount": 125,
+    "cust_id": "A123"
+  },
+  {
+    "_id": "5da8b6d87c3bce559941f6d3",
+    "status": "A",
+    "amount": 250,
+    "cust_id": "A123"
+  },
+  {
+    "_id": "5da8b6d83df06b1b7981afff",
+    "status": "A",
+    "amount": 500,
+    "cust_id": "A123"
+  },
+  {
+    "_id": "5da8b6d8298ec5d79bdfcf26",
+    "status": "C",
+    "amount": 250,
+    "cust_id": "D456"
+  },
+  {
+    "_id": "5da8b6d83de7bddce4bbf093",
+    "status": "B",
+    "amount": 125,
+    "cust_id": "C345"
+  },
+  {
+    "_id": "5da8b6d8b050dde2853e18ce",
+    "status": "A",
+    "amount": 200,
+    "cust_id": "B212"
+  },
+  {
+    "_id": "5da8b6d8f288a9e63a027a49",
+    "status": "C",
+    "amount": 625,
+    "cust_id": "D456"
+  },
+  {
+    "_id": "5da8b6d8cf276c47a8722ac2",
+    "status": "C",
+    "amount": 100,
+    "cust_id": "D456"
+  },
+  {
+    "_id": "5da8b6d8dcc0d946e1dfe69f",
+    "status": "B",
+    "amount": 200,
+    "cust_id": "D456"
+  },
+  {
+    "_id": "5da8b6d84f7889702030ec60",
+    "status": "C",
+    "amount": 250,
+    "cust_id": "B212"
+  },
+  {
+    "_id": "5da8b6d8a4a3dc2ddf37aabe",
+    "status": "C",
+    "amount": 500,
+    "cust_id": "A123"
+  }
+]

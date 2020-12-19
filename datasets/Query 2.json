@@ -1,0 +1,5996 @@
+[
+  {
+    "CUSTOMER_ID": "266788",
+    "DOB": "20/03/1972",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "266794",
+    "DOB": "28/02/1971",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "266799",
+    "DOB": "16/03/1970",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "266815",
+    "DOB": "07/08/1973",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "266822",
+    "DOB": "20/09/1970",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "266824",
+    "DOB": "04/06/1973",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "266836",
+    "DOB": "21/11/1973",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "266854",
+    "DOB": "04/09/1971",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "266855",
+    "DOB": "16/06/1972",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "266862",
+    "DOB": "24/04/1970",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "266863",
+    "DOB": "17/11/1972",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "266886",
+    "DOB": "28/02/1971",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "266895",
+    "DOB": "12/03/1970",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "266919",
+    "DOB": "11/11/1973",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "266929",
+    "DOB": "15/01/1970",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "266931",
+    "DOB": "29/05/1971",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "266954",
+    "DOB": "06/11/1970",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "266959",
+    "DOB": "13/09/1970",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "266969",
+    "DOB": "28/03/1970",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "266972",
+    "DOB": "21/10/1970",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "266975",
+    "DOB": "27/09/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "266982",
+    "DOB": "22/06/1973",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "266991",
+    "DOB": "05/03/1973",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "266997",
+    "DOB": "23/01/1970",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "267001",
+    "DOB": "27/06/1971",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "267003",
+    "DOB": "04/11/1973",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "267010",
+    "DOB": "18/12/1971",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "267032",
+    "DOB": "21/04/1971",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "267042",
+    "DOB": "23/07/1970",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "267066",
+    "DOB": "25/06/1970",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "267078",
+    "DOB": "22/04/1971",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "267081",
+    "DOB": "17/07/1970",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "267092",
+    "DOB": "08/10/1972",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "267097",
+    "DOB": "05/05/1973",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "267098",
+    "DOB": "27/04/1971",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "267101",
+    "DOB": "02/03/1971",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "267112",
+    "DOB": "22/10/1972",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "267116",
+    "DOB": "07/07/1973",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "267126",
+    "DOB": "09/02/1973",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "267160",
+    "DOB": "19/01/1974",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "267166",
+    "DOB": "22/02/1970",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "267169",
+    "DOB": "07/02/1973",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "267174",
+    "DOB": "16/11/1972",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "267193",
+    "DOB": "27/11/1972",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "267199",
+    "DOB": "14/02/1970",
+    "GENDER": "NULL",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "267214",
+    "DOB": "25/08/1973",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "267226",
+    "DOB": "26/08/1973",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "267228",
+    "DOB": "14/04/1971",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "267240",
+    "DOB": "29/03/1971",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "267257",
+    "DOB": "26/12/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "267269",
+    "DOB": "21/03/1971",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "267270",
+    "DOB": "16/12/1972",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "267280",
+    "DOB": "02/08/1970",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "267293",
+    "DOB": "18/03/1972",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "267301",
+    "DOB": "19/07/1973",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "267304",
+    "DOB": "03/08/1970",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "267309",
+    "DOB": "08/04/1973",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "267320",
+    "DOB": "25/02/1973",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "267327",
+    "DOB": "22/06/1973",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "267328",
+    "DOB": "11/02/1974",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "267346",
+    "DOB": "19/03/1971",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "267350",
+    "DOB": "01/04/1971",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "267359",
+    "DOB": "08/01/1971",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "267370",
+    "DOB": "21/09/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "267377",
+    "DOB": "20/11/1973",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "267379",
+    "DOB": "21/03/1970",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "267380",
+    "DOB": "19/06/1972",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "267386",
+    "DOB": "15/05/1970",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "267387",
+    "DOB": "11/01/1973",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "267395",
+    "DOB": "24/06/1971",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "267396",
+    "DOB": "13/11/1970",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "267405",
+    "DOB": "03/10/1972",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "267424",
+    "DOB": "22/09/1970",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "267429",
+    "DOB": "29/11/1972",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "267432",
+    "DOB": "07/05/1973",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "267439",
+    "DOB": "27/08/1972",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "267449",
+    "DOB": "15/02/1974",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "267452",
+    "DOB": "24/06/1971",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "267463",
+    "DOB": "22/04/1971",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "267468",
+    "DOB": "06/10/1973",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "267490",
+    "DOB": "09/09/1970",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "267504",
+    "DOB": "01/02/1974",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "267512",
+    "DOB": "07/01/1971",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "267529",
+    "DOB": "09/05/1970",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "267536",
+    "DOB": "10/09/1970",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "267543",
+    "DOB": "24/07/1972",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "267545",
+    "DOB": "09/10/1971",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "267558",
+    "DOB": "17/01/1971",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "267583",
+    "DOB": "21/11/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "267585",
+    "DOB": "25/09/1973",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "267588",
+    "DOB": "04/05/1973",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "267589",
+    "DOB": "24/11/1970",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "267603",
+    "DOB": "06/11/1970",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "267609",
+    "DOB": "18/02/1970",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "267613",
+    "DOB": "15/09/1970",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "267618",
+    "DOB": "08/01/1971",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "267621",
+    "DOB": "26/10/1971",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "267634",
+    "DOB": "11/07/1971",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "267637",
+    "DOB": "07/04/1973",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "267639",
+    "DOB": "07/06/1971",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "267657",
+    "DOB": "29/01/1970",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "267658",
+    "DOB": "07/11/1971",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "267664",
+    "DOB": "22/12/1971",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "267696",
+    "DOB": "09/03/1973",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "267698",
+    "DOB": "03/03/1972",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "267707",
+    "DOB": "02/10/1970",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "267713",
+    "DOB": "03/09/1970",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "267715",
+    "DOB": "10/12/1972",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "267718",
+    "DOB": "19/02/1973",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "267721",
+    "DOB": "22/07/1972",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "267742",
+    "DOB": "08/03/1971",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "267743",
+    "DOB": "13/03/1972",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "267747",
+    "DOB": "02/06/1972",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "267749",
+    "DOB": "11/10/1973",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "267778",
+    "DOB": "11/03/1972",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "267807",
+    "DOB": "11/09/1971",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "267815",
+    "DOB": "26/07/1971",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "267818",
+    "DOB": "07/03/1971",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "267819",
+    "DOB": "10/05/1970",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "267826",
+    "DOB": "24/08/1970",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "267827",
+    "DOB": "20/03/1972",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "267830",
+    "DOB": "06/12/1973",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "267849",
+    "DOB": "17/06/1971",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "267851",
+    "DOB": "13/12/1970",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "267852",
+    "DOB": "07/06/1971",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "267855",
+    "DOB": "10/12/1971",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "267856",
+    "DOB": "01/10/1973",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "267867",
+    "DOB": "02/02/1972",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "267875",
+    "DOB": "18/12/1972",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "267888",
+    "DOB": "12/07/1973",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "267892",
+    "DOB": "27/03/1973",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "267895",
+    "DOB": "25/10/1972",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "267905",
+    "DOB": "12/10/1972",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "267914",
+    "DOB": "06/08/1971",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "267916",
+    "DOB": "17/02/1970",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "267925",
+    "DOB": "02/08/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "267931",
+    "DOB": "06/02/1973",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "267945",
+    "DOB": "05/02/1972",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "267959",
+    "DOB": "12/10/1970",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "267962",
+    "DOB": "12/07/1973",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "267974",
+    "DOB": "12/10/1973",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "267976",
+    "DOB": "11/03/1971",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "267995",
+    "DOB": "04/06/1971",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "268021",
+    "DOB": "18/10/1971",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "268055",
+    "DOB": "20/01/1973",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "268061",
+    "DOB": "23/12/1973",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "268073",
+    "DOB": "11/01/1970",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "268074",
+    "DOB": "21/11/1971",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "268084",
+    "DOB": "18/11/1970",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "268099",
+    "DOB": "01/09/1971",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "268101",
+    "DOB": "25/06/1972",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "268108",
+    "DOB": "03/09/1971",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "268159",
+    "DOB": "08/01/1970",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "268160",
+    "DOB": "29/03/1972",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "268171",
+    "DOB": "22/12/1972",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "268172",
+    "DOB": "06/09/1973",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "268173",
+    "DOB": "04/05/1973",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "268187",
+    "DOB": "24/10/1973",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "268197",
+    "DOB": "11/07/1971",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "268200",
+    "DOB": "05/06/1971",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "268218",
+    "DOB": "15/01/1974",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "268241",
+    "DOB": "13/12/1972",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "268263",
+    "DOB": "20/05/1971",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "268271",
+    "DOB": "08/05/1972",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "268275",
+    "DOB": "01/02/1970",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "268282",
+    "DOB": "22/12/1970",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "268290",
+    "DOB": "29/04/1970",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "268301",
+    "DOB": "05/06/1971",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "268305",
+    "DOB": "25/02/1974",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "268312",
+    "DOB": "12/10/1970",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "268313",
+    "DOB": "11/06/1970",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "268319",
+    "DOB": "19/12/1972",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "268328",
+    "DOB": "08/06/1973",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "268333",
+    "DOB": "17/04/1972",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "268337",
+    "DOB": "08/08/1973",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "268342",
+    "DOB": "21/04/1971",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "268346",
+    "DOB": "04/11/1971",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "268347",
+    "DOB": "03/11/1971",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "268348",
+    "DOB": "15/07/1972",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "268352",
+    "DOB": "04/03/1973",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "268363",
+    "DOB": "29/06/1971",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "268365",
+    "DOB": "12/09/1970",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "268366",
+    "DOB": "09/01/1973",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "268385",
+    "DOB": "27/07/1971",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "268405",
+    "DOB": "03/02/1972",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "268408",
+    "DOB": "02/01/1970",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "268411",
+    "DOB": "10/02/1973",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "268412",
+    "DOB": "13/11/1972",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "268415",
+    "DOB": "10/11/1973",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "268419",
+    "DOB": "23/12/1972",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "268424",
+    "DOB": "23/05/1970",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "268436",
+    "DOB": "25/12/1973",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "268445",
+    "DOB": "18/02/1972",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "268447",
+    "DOB": "14/07/1970",
+    "GENDER": "M",
+    "CITY_CODE": null
+  },
+  {
+    "CUSTOMER_ID": "268453",
+    "DOB": "09/09/1971",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "268469",
+    "DOB": "10/12/1972",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "268481",
+    "DOB": "15/11/1970",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "268484",
+    "DOB": "09/03/1972",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "268490",
+    "DOB": "02/02/1974",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "268500",
+    "DOB": "13/04/1971",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "268502",
+    "DOB": "14/02/1973",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "268504",
+    "DOB": "05/12/1972",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "268512",
+    "DOB": "01/03/1974",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "268533",
+    "DOB": "23/06/1970",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "268534",
+    "DOB": "02/10/1972",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "268535",
+    "DOB": "27/05/1972",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "268556",
+    "DOB": "18/12/1973",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "268558",
+    "DOB": "02/11/1972",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "268578",
+    "DOB": "24/12/1970",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "268581",
+    "DOB": "17/03/1971",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "268583",
+    "DOB": "23/02/1971",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "268585",
+    "DOB": "08/05/1973",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "268606",
+    "DOB": "03/03/1973",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "268608",
+    "DOB": "05/05/1973",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "268612",
+    "DOB": "02/07/1972",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "268627",
+    "DOB": "01/06/1970",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "268629",
+    "DOB": "10/07/1971",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "268635",
+    "DOB": "01/11/1970",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "268636",
+    "DOB": "15/12/1970",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "268645",
+    "DOB": "13/01/1974",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "268647",
+    "DOB": "07/06/1972",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "268657",
+    "DOB": "18/04/1971",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "268670",
+    "DOB": "01/04/1971",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "268673",
+    "DOB": "20/02/1974",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "268681",
+    "DOB": "29/07/1973",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "268697",
+    "DOB": "29/10/1970",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "268698",
+    "DOB": "04/10/1971",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "268700",
+    "DOB": "18/08/1971",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "268708",
+    "DOB": "15/11/1971",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "268709",
+    "DOB": "09/09/1970",
+    "GENDER": "F",
+    "CITY_CODE": null
+  },
+  {
+    "CUSTOMER_ID": "268716",
+    "DOB": "15/06/1973",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "268731",
+    "DOB": "25/09/1972",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "268732",
+    "DOB": "06/05/1970",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "268744",
+    "DOB": "06/02/1971",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "268768",
+    "DOB": "09/03/1974",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "268772",
+    "DOB": "20/10/1970",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "268786",
+    "DOB": "07/09/1971",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "268792",
+    "DOB": "04/07/1970",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "268810",
+    "DOB": "02/06/1973",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "268813",
+    "DOB": "21/02/1971",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "268825",
+    "DOB": "06/04/1973",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "268840",
+    "DOB": "29/06/1971",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "268860",
+    "DOB": "04/11/1973",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "268870",
+    "DOB": "26/09/1972",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "268908",
+    "DOB": "24/11/1973",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "268909",
+    "DOB": "01/05/1971",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "268916",
+    "DOB": "10/08/1971",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "268920",
+    "DOB": "07/04/1972",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "268924",
+    "DOB": "16/08/1973",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "268957",
+    "DOB": "01/06/1972",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "268959",
+    "DOB": "29/11/1971",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "268965",
+    "DOB": "20/10/1973",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "268973",
+    "DOB": "25/02/1974",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "268976",
+    "DOB": "26/12/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "268982",
+    "DOB": "17/03/1974",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "268988",
+    "DOB": "19/10/1972",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "268998",
+    "DOB": "12/10/1970",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "269003",
+    "DOB": "12/08/1973",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "269007",
+    "DOB": "29/09/1973",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "269008",
+    "DOB": "13/02/1970",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "269010",
+    "DOB": "14/10/1973",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "269013",
+    "DOB": "20/07/1972",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "269020",
+    "DOB": "14/01/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "269031",
+    "DOB": "14/11/1971",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "269033",
+    "DOB": "24/02/1973",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "269034",
+    "DOB": "16/12/1972",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "269035",
+    "DOB": "29/07/1971",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "269036",
+    "DOB": "03/01/1972",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "269058",
+    "DOB": "29/07/1971",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "269063",
+    "DOB": "23/06/1973",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "269088",
+    "DOB": "09/05/1973",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "269091",
+    "DOB": "23/02/1971",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "269118",
+    "DOB": "10/03/1972",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "269124",
+    "DOB": "28/02/1972",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "269139",
+    "DOB": "20/02/1971",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "269160",
+    "DOB": "24/01/1972",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "269172",
+    "DOB": "28/07/1973",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "269189",
+    "DOB": "25/10/1973",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "269197",
+    "DOB": "22/07/1972",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "269218",
+    "DOB": "06/04/1971",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "269235",
+    "DOB": "22/10/1970",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "269243",
+    "DOB": "25/11/1970",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "269244",
+    "DOB": "08/08/1971",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "269245",
+    "DOB": "20/05/1971",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "269259",
+    "DOB": "14/05/1973",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "269261",
+    "DOB": "27/12/1971",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "269271",
+    "DOB": "12/05/1970",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "269279",
+    "DOB": "10/11/1973",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "269282",
+    "DOB": "09/10/1973",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "269285",
+    "DOB": "04/02/1974",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "269297",
+    "DOB": "06/03/1972",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "269306",
+    "DOB": "11/03/1973",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "269310",
+    "DOB": "06/08/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "269315",
+    "DOB": "12/08/1971",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "269345",
+    "DOB": "26/06/1970",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "269352",
+    "DOB": "03/01/1973",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "269357",
+    "DOB": "08/07/1971",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "269361",
+    "DOB": "09/07/1973",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "269376",
+    "DOB": "02/04/1973",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "269382",
+    "DOB": "12/09/1972",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "269396",
+    "DOB": "25/11/1971",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "269430",
+    "DOB": "29/01/1974",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "269449",
+    "DOB": "09/08/1970",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "269458",
+    "DOB": "16/12/1970",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "269462",
+    "DOB": "05/12/1972",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "269466",
+    "DOB": "26/05/1973",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "269470",
+    "DOB": "02/08/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "269471",
+    "DOB": "10/01/1971",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "269473",
+    "DOB": "04/07/1971",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "269490",
+    "DOB": "05/01/1973",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "269497",
+    "DOB": "10/11/1973",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "269528",
+    "DOB": "28/02/1972",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "269531",
+    "DOB": "05/06/1970",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "269546",
+    "DOB": "28/11/1973",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "269555",
+    "DOB": "24/12/1973",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "269556",
+    "DOB": "27/12/1972",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "269559",
+    "DOB": "24/06/1972",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "269568",
+    "DOB": "17/06/1972",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "269574",
+    "DOB": "14/01/1971",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "269603",
+    "DOB": "28/11/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "269616",
+    "DOB": "23/06/1972",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "269617",
+    "DOB": "11/03/1973",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "269629",
+    "DOB": "05/10/1972",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "269636",
+    "DOB": "03/09/1972",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "269640",
+    "DOB": "29/04/1970",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "269658",
+    "DOB": "11/04/1971",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "269676",
+    "DOB": "09/10/1970",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "269679",
+    "DOB": "28/12/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "269696",
+    "DOB": "07/01/1970",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "269702",
+    "DOB": "16/09/1972",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "269711",
+    "DOB": "13/03/1974",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "269715",
+    "DOB": "02/01/1971",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "269737",
+    "DOB": "19/03/1973",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "269756",
+    "DOB": "04/07/1971",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "269764",
+    "DOB": "03/08/1971",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "269765",
+    "DOB": "04/04/1970",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "269779",
+    "DOB": "08/12/1973",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "269789",
+    "DOB": "27/02/1973",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "269794",
+    "DOB": "07/03/1973",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "269798",
+    "DOB": "28/02/1973",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "269800",
+    "DOB": "09/03/1972",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "269805",
+    "DOB": "04/07/1972",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "269825",
+    "DOB": "21/08/1970",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "269844",
+    "DOB": "25/05/1971",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "269859",
+    "DOB": "02/02/1974",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "269867",
+    "DOB": "17/12/1970",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "269887",
+    "DOB": "03/04/1973",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "269919",
+    "DOB": "11/10/1970",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "269922",
+    "DOB": "26/11/1972",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "269935",
+    "DOB": "11/05/1971",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "269953",
+    "DOB": "01/03/1972",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "269988",
+    "DOB": "02/03/1973",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "269993",
+    "DOB": "04/03/1974",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "269999",
+    "DOB": "15/10/1973",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "270002",
+    "DOB": "08/04/1971",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "270003",
+    "DOB": "22/11/1971",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "270036",
+    "DOB": "04/06/1971",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "270047",
+    "DOB": "10/06/1970",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "270051",
+    "DOB": "07/09/1970",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "270067",
+    "DOB": "27/12/1973",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "270071",
+    "DOB": "17/01/1973",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "270075",
+    "DOB": "11/06/1973",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "270080",
+    "DOB": "11/01/1971",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "270084",
+    "DOB": "10/06/1972",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "270117",
+    "DOB": "10/02/1974",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "270119",
+    "DOB": "23/06/1971",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "270120",
+    "DOB": "01/02/1971",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "270121",
+    "DOB": "29/01/1974",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "270130",
+    "DOB": "26/07/1970",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "270144",
+    "DOB": "28/01/1973",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "270147",
+    "DOB": "07/01/1972",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "270150",
+    "DOB": "22/05/1971",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "270154",
+    "DOB": "16/09/1971",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "270156",
+    "DOB": "22/01/1972",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "270181",
+    "DOB": "10/01/1970",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "270197",
+    "DOB": "24/11/1971",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "270203",
+    "DOB": "11/09/1971",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "270218",
+    "DOB": "18/12/1970",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "270251",
+    "DOB": "13/01/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "270252",
+    "DOB": "02/03/1971",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "270254",
+    "DOB": "24/10/1971",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "270255",
+    "DOB": "10/05/1973",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "270259",
+    "DOB": "10/07/1971",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "270291",
+    "DOB": "10/02/1972",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "270306",
+    "DOB": "21/01/1973",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "270308",
+    "DOB": "19/11/1971",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "270316",
+    "DOB": "19/11/1970",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "270324",
+    "DOB": "01/02/1970",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "270328",
+    "DOB": "07/08/1970",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "270331",
+    "DOB": "08/10/1970",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "270352",
+    "DOB": "04/12/1970",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "270366",
+    "DOB": "24/10/1972",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "270378",
+    "DOB": "18/07/1971",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "270384",
+    "DOB": "11/05/1973",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "270393",
+    "DOB": "26/02/1971",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "270401",
+    "DOB": "05/09/1972",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "270420",
+    "DOB": "03/03/1972",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "270427",
+    "DOB": "15/02/1971",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "270430",
+    "DOB": "01/06/1970",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "270446",
+    "DOB": "05/10/1970",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "270450",
+    "DOB": "24/04/1970",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "270451",
+    "DOB": "07/10/1971",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "270458",
+    "DOB": "26/05/1972",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "270460",
+    "DOB": "27/07/1972",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "270478",
+    "DOB": "20/05/1971",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "270493",
+    "DOB": "22/05/1972",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "270515",
+    "DOB": "15/03/1972",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "270534",
+    "DOB": "24/02/1971",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "270567",
+    "DOB": "01/11/1970",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "270573",
+    "DOB": "20/08/1973",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "270586",
+    "DOB": "29/06/1971",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "270602",
+    "DOB": "18/02/1970",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "270619",
+    "DOB": "16/10/1970",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "270631",
+    "DOB": "05/03/1971",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "270650",
+    "DOB": "10/10/1973",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "270659",
+    "DOB": "27/08/1972",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "270667",
+    "DOB": "24/02/1974",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "270672",
+    "DOB": "03/05/1973",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "270676",
+    "DOB": "19/06/1970",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "270678",
+    "DOB": "06/08/1970",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "270683",
+    "DOB": "28/01/1972",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "270684",
+    "DOB": "07/02/1974",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "270688",
+    "DOB": "21/02/1972",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "270706",
+    "DOB": "24/11/1972",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "270711",
+    "DOB": "17/03/1971",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "270721",
+    "DOB": "20/08/1972",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "270738",
+    "DOB": "14/02/1971",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "270739",
+    "DOB": "26/09/1973",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "270748",
+    "DOB": "17/09/1970",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "270760",
+    "DOB": "16/09/1972",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "270764",
+    "DOB": "11/07/1971",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "270768",
+    "DOB": "27/12/1970",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "270770",
+    "DOB": "15/03/1971",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "270771",
+    "DOB": "12/09/1973",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "270780",
+    "DOB": "18/04/1970",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "270785",
+    "DOB": "22/02/1972",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "270787",
+    "DOB": "10/09/1973",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "270788",
+    "DOB": "04/06/1973",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "270810",
+    "DOB": "01/03/1972",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "270818",
+    "DOB": "14/07/1971",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "270823",
+    "DOB": "28/06/1972",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "270827",
+    "DOB": "04/03/1970",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "270828",
+    "DOB": "05/01/1974",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "270829",
+    "DOB": "22/01/1970",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "270839",
+    "DOB": "19/03/1973",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "270855",
+    "DOB": "20/03/1972",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "270860",
+    "DOB": "26/11/1973",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "270861",
+    "DOB": "14/10/1971",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "270874",
+    "DOB": "17/09/1973",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "270880",
+    "DOB": "17/11/1973",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "270891",
+    "DOB": "05/05/1972",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "270898",
+    "DOB": "18/05/1972",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "270907",
+    "DOB": "09/09/1972",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "270911",
+    "DOB": "22/05/1970",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "270921",
+    "DOB": "14/03/1971",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "270922",
+    "DOB": "21/07/1971",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "270923",
+    "DOB": "16/07/1973",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "270928",
+    "DOB": "02/06/1972",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "270933",
+    "DOB": "15/06/1970",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "270938",
+    "DOB": "23/10/1970",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "270945",
+    "DOB": "23/11/1970",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "270950",
+    "DOB": "05/07/1973",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "270955",
+    "DOB": "05/05/1973",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "270965",
+    "DOB": "25/02/1972",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "270968",
+    "DOB": "22/02/1972",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "270977",
+    "DOB": "22/11/1971",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "270986",
+    "DOB": "27/03/1970",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "271012",
+    "DOB": "20/02/1972",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "271019",
+    "DOB": "09/03/1971",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "271027",
+    "DOB": "13/08/1971",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "271031",
+    "DOB": "09/06/1970",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "271045",
+    "DOB": "23/05/1970",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "271046",
+    "DOB": "23/01/1972",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "271055",
+    "DOB": "14/05/1972",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "271060",
+    "DOB": "16/10/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "271066",
+    "DOB": "10/05/1970",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "271072",
+    "DOB": "16/06/1970",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "271080",
+    "DOB": "25/02/1974",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "271091",
+    "DOB": "29/12/1973",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "271095",
+    "DOB": "04/08/1972",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "271108",
+    "DOB": "28/04/1973",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "271111",
+    "DOB": "19/12/1971",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "271122",
+    "DOB": "16/08/1971",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "271144",
+    "DOB": "19/08/1972",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "271150",
+    "DOB": "12/05/1972",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "271157",
+    "DOB": "15/10/1973",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "271177",
+    "DOB": "14/09/1970",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "271179",
+    "DOB": "12/10/1971",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "271187",
+    "DOB": "18/03/1972",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "271205",
+    "DOB": "23/01/1973",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "271224",
+    "DOB": "08/01/1972",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "271243",
+    "DOB": "26/09/1973",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "271262",
+    "DOB": "21/02/1970",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "271279",
+    "DOB": "24/08/1973",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "271283",
+    "DOB": "10/11/1972",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "271286",
+    "DOB": "10/09/1970",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "271312",
+    "DOB": "01/04/1970",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "271323",
+    "DOB": "02/02/1971",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "271327",
+    "DOB": "20/07/1973",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "271331",
+    "DOB": "18/06/1971",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "271340",
+    "DOB": "21/09/1973",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "271341",
+    "DOB": "22/07/1973",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "271344",
+    "DOB": "29/01/1970",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "271345",
+    "DOB": "06/07/1971",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "271377",
+    "DOB": "21/03/1972",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "271407",
+    "DOB": "23/05/1972",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "271429",
+    "DOB": "17/12/1971",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "271445",
+    "DOB": "05/07/1971",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "271446",
+    "DOB": "08/01/1974",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "271448",
+    "DOB": "12/04/1973",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "271452",
+    "DOB": "21/10/1973",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "271455",
+    "DOB": "01/02/1972",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "271465",
+    "DOB": "17/06/1970",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "271478",
+    "DOB": "06/05/1970",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "271485",
+    "DOB": "01/05/1971",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "271489",
+    "DOB": "21/04/1971",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "271492",
+    "DOB": "11/07/1971",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "271526",
+    "DOB": "12/03/1972",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "271538",
+    "DOB": "10/07/1972",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "271543",
+    "DOB": "20/12/1973",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "271547",
+    "DOB": "10/03/1973",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "271553",
+    "DOB": "15/11/1973",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "271558",
+    "DOB": "12/01/1972",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "271569",
+    "DOB": "23/04/1973",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "271584",
+    "DOB": "04/09/1972",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "271587",
+    "DOB": "27/10/1970",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "271595",
+    "DOB": "15/02/1974",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "271596",
+    "DOB": "29/11/1972",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "271608",
+    "DOB": "09/02/1970",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "271626",
+    "DOB": "02/06/1970",
+    "GENDER": "NULL",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "271629",
+    "DOB": "08/02/1972",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "271636",
+    "DOB": "29/08/1971",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "271651",
+    "DOB": "10/04/1971",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "271658",
+    "DOB": "25/03/1972",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "271679",
+    "DOB": "15/10/1971",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "271684",
+    "DOB": "04/05/1971",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "271690",
+    "DOB": "15/12/1971",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "271692",
+    "DOB": "07/03/1970",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "271718",
+    "DOB": "10/03/1971",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "271722",
+    "DOB": "20/03/1973",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "271743",
+    "DOB": "27/12/1972",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "271750",
+    "DOB": "23/08/1970",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "271751",
+    "DOB": "17/03/1972",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "271755",
+    "DOB": "15/09/1973",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "271776",
+    "DOB": "22/01/1971",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "271777",
+    "DOB": "08/03/1970",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "271784",
+    "DOB": "22/08/1971",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "271818",
+    "DOB": "03/04/1973",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "271827",
+    "DOB": "21/06/1971",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "271838",
+    "DOB": "10/06/1973",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "271856",
+    "DOB": "08/02/1973",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "271862",
+    "DOB": "24/04/1973",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "271863",
+    "DOB": "19/08/1971",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "271873",
+    "DOB": "17/04/1972",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "271885",
+    "DOB": "04/11/1973",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "271888",
+    "DOB": "17/07/1973",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "271900",
+    "DOB": "08/02/1971",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "271905",
+    "DOB": "11/03/1971",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "271915",
+    "DOB": "24/06/1971",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "271924",
+    "DOB": "03/10/1970",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "271929",
+    "DOB": "09/05/1973",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "271935",
+    "DOB": "26/03/1970",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "271944",
+    "DOB": "11/12/1971",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "271951",
+    "DOB": "11/03/1972",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "271958",
+    "DOB": "15/06/1972",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "271959",
+    "DOB": "26/10/1970",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "271965",
+    "DOB": "06/09/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "271969",
+    "DOB": "14/03/1974",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "271975",
+    "DOB": "16/02/1971",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "271991",
+    "DOB": "02/04/1970",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "272003",
+    "DOB": "24/12/1973",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "272009",
+    "DOB": "19/03/1971",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "272010",
+    "DOB": "22/12/1972",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "272016",
+    "DOB": "03/12/1971",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "272017",
+    "DOB": "22/09/1970",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "272018",
+    "DOB": "09/06/1970",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "272028",
+    "DOB": "20/02/1970",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "272037",
+    "DOB": "29/04/1971",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "272046",
+    "DOB": "20/02/1973",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "272054",
+    "DOB": "03/07/1973",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "272055",
+    "DOB": "15/02/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "272062",
+    "DOB": "19/10/1971",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "272069",
+    "DOB": "29/04/1972",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "272070",
+    "DOB": "18/05/1972",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "272071",
+    "DOB": "06/04/1970",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "272074",
+    "DOB": "15/01/1972",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "272082",
+    "DOB": "27/10/1971",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "272088",
+    "DOB": "08/09/1970",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "272094",
+    "DOB": "12/08/1971",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "272098",
+    "DOB": "25/06/1971",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "272101",
+    "DOB": "27/12/1971",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "272117",
+    "DOB": "19/12/1970",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "272124",
+    "DOB": "04/10/1973",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "272126",
+    "DOB": "10/01/1971",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "272162",
+    "DOB": "03/07/1971",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "272168",
+    "DOB": "26/10/1970",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "272170",
+    "DOB": "25/08/1973",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "272173",
+    "DOB": "21/02/1973",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "272186",
+    "DOB": "09/06/1970",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "272192",
+    "DOB": "10/12/1971",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "272200",
+    "DOB": "06/11/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "272212",
+    "DOB": "10/12/1970",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "272231",
+    "DOB": "10/08/1972",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "272248",
+    "DOB": "04/10/1972",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "272261",
+    "DOB": "03/09/1970",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "272279",
+    "DOB": "19/05/1972",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "272295",
+    "DOB": "20/03/1972",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "272301",
+    "DOB": "03/06/1970",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "272313",
+    "DOB": "02/11/1972",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "272314",
+    "DOB": "05/05/1973",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "272341",
+    "DOB": "10/09/1973",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "272359",
+    "DOB": "19/02/1970",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "272368",
+    "DOB": "17/04/1972",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "272371",
+    "DOB": "28/07/1973",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "272385",
+    "DOB": "01/09/1973",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "272386",
+    "DOB": "08/03/1972",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "272401",
+    "DOB": "12/02/1974",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "272402",
+    "DOB": "23/09/1970",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "272407",
+    "DOB": "12/12/1973",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "272408",
+    "DOB": "13/09/1970",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "272418",
+    "DOB": "13/02/1971",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "272422",
+    "DOB": "17/11/1973",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "272435",
+    "DOB": "13/03/1972",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "272438",
+    "DOB": "16/12/1972",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "272446",
+    "DOB": "26/10/1972",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "272449",
+    "DOB": "25/11/1973",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "272455",
+    "DOB": "25/01/1970",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "272459",
+    "DOB": "13/08/1973",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "272472",
+    "DOB": "24/06/1972",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "272487",
+    "DOB": "08/06/1973",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "272489",
+    "DOB": "28/10/1972",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "272495",
+    "DOB": "10/07/1970",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "272497",
+    "DOB": "01/03/1971",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "272501",
+    "DOB": "26/08/1970",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "272503",
+    "DOB": "01/10/1973",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "272504",
+    "DOB": "06/03/1972",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "272508",
+    "DOB": "05/11/1972",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "272511",
+    "DOB": "01/09/1973",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "272518",
+    "DOB": "02/10/1972",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "272530",
+    "DOB": "10/11/1973",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "272535",
+    "DOB": "12/12/1972",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "272536",
+    "DOB": "28/01/1971",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "272555",
+    "DOB": "03/05/1970",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "272561",
+    "DOB": "12/11/1972",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "272562",
+    "DOB": "14/12/1973",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "272566",
+    "DOB": "10/03/1974",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "272568",
+    "DOB": "17/05/1973",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "272594",
+    "DOB": "09/02/1971",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "272603",
+    "DOB": "19/02/1970",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "272614",
+    "DOB": "12/11/1971",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "272627",
+    "DOB": "19/04/1970",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "272645",
+    "DOB": "14/04/1970",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "272666",
+    "DOB": "19/02/1974",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "272672",
+    "DOB": "05/05/1971",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "272684",
+    "DOB": "17/02/1973",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "272700",
+    "DOB": "27/10/1972",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "272706",
+    "DOB": "09/03/1974",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "272707",
+    "DOB": "25/11/1971",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "272708",
+    "DOB": "15/04/1972",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "272713",
+    "DOB": "02/04/1972",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "272716",
+    "DOB": "23/08/1973",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "272720",
+    "DOB": "09/03/1973",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "272721",
+    "DOB": "01/09/1970",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "272727",
+    "DOB": "20/02/1973",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "272729",
+    "DOB": "21/05/1971",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "272736",
+    "DOB": "19/04/1970",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "272741",
+    "DOB": "09/11/1973",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "272767",
+    "DOB": "13/11/1971",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "272777",
+    "DOB": "29/09/1970",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "272784",
+    "DOB": "14/10/1970",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "272795",
+    "DOB": "22/04/1970",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "272799",
+    "DOB": "24/02/1973",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "272808",
+    "DOB": "15/02/1973",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "272809",
+    "DOB": "20/08/1973",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "272813",
+    "DOB": "17/09/1973",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "272821",
+    "DOB": "17/03/1970",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "272839",
+    "DOB": "22/05/1971",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "272852",
+    "DOB": "18/07/1972",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "272874",
+    "DOB": "15/02/1971",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "272878",
+    "DOB": "06/12/1973",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "272879",
+    "DOB": "21/05/1973",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "272883",
+    "DOB": "19/02/1970",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "272893",
+    "DOB": "12/08/1971",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "272922",
+    "DOB": "14/11/1970",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "272925",
+    "DOB": "08/01/1974",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "272926",
+    "DOB": "11/07/1970",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "272938",
+    "DOB": "06/07/1972",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "272940",
+    "DOB": "25/03/1971",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "272953",
+    "DOB": "02/05/1972",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "272969",
+    "DOB": "19/12/1972",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "272981",
+    "DOB": "11/08/1973",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "272982",
+    "DOB": "01/01/1972",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "272992",
+    "DOB": "22/01/1971",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "273014",
+    "DOB": "02/05/1973",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "273016",
+    "DOB": "22/03/1970",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "273019",
+    "DOB": "11/03/1973",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "273025",
+    "DOB": "17/06/1972",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "273030",
+    "DOB": "03/08/1972",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "273036",
+    "DOB": "09/11/1971",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "273053",
+    "DOB": "23/08/1973",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "273056",
+    "DOB": "10/10/1972",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "273067",
+    "DOB": "21/02/1973",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "273106",
+    "DOB": "23/03/1970",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "273109",
+    "DOB": "27/03/1970",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "273114",
+    "DOB": "09/09/1972",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "273119",
+    "DOB": "17/06/1972",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "273122",
+    "DOB": "28/11/1970",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "273136",
+    "DOB": "20/06/1973",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "273146",
+    "DOB": "04/06/1971",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "273150",
+    "DOB": "14/05/1970",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "273151",
+    "DOB": "24/07/1970",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "273157",
+    "DOB": "23/09/1972",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "273162",
+    "DOB": "19/06/1970",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "273167",
+    "DOB": "17/05/1972",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "273169",
+    "DOB": "12/12/1970",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "273170",
+    "DOB": "03/10/1970",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "273205",
+    "DOB": "19/07/1972",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "273216",
+    "DOB": "15/01/1970",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "273218",
+    "DOB": "18/01/1974",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "273222",
+    "DOB": "19/11/1970",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "273237",
+    "DOB": "26/08/1972",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "273242",
+    "DOB": "15/02/1972",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "273258",
+    "DOB": "26/05/1973",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "273261",
+    "DOB": "02/09/1973",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "273265",
+    "DOB": "12/12/1972",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "273299",
+    "DOB": "28/12/1973",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "273308",
+    "DOB": "28/11/1972",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "273316",
+    "DOB": "21/02/1970",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "273318",
+    "DOB": "12/10/1971",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "273330",
+    "DOB": "13/07/1972",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "273352",
+    "DOB": "15/02/1972",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "273353",
+    "DOB": "07/10/1970",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "273357",
+    "DOB": "18/08/1972",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "273358",
+    "DOB": "25/04/1971",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "273361",
+    "DOB": "22/07/1972",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "273372",
+    "DOB": "29/09/1970",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "273380",
+    "DOB": "15/03/1972",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "273383",
+    "DOB": "11/06/1971",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "273387",
+    "DOB": "15/10/1973",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "273391",
+    "DOB": "29/01/1970",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "273397",
+    "DOB": "14/06/1971",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "273398",
+    "DOB": "01/10/1970",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "273403",
+    "DOB": "13/01/1974",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "273423",
+    "DOB": "04/03/1970",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "273435",
+    "DOB": "02/06/1973",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "273440",
+    "DOB": "15/06/1972",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "273442",
+    "DOB": "16/07/1970",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "273445",
+    "DOB": "18/07/1971",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "273455",
+    "DOB": "17/07/1973",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "273456",
+    "DOB": "04/08/1971",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "273465",
+    "DOB": "24/10/1973",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "273478",
+    "DOB": "20/10/1972",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "273492",
+    "DOB": "05/07/1972",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "273495",
+    "DOB": "11/09/1972",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "273496",
+    "DOB": "25/03/1974",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "273497",
+    "DOB": "02/04/1972",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "273498",
+    "DOB": "13/09/1973",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "273502",
+    "DOB": "21/10/1971",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "273506",
+    "DOB": "23/12/1971",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "273517",
+    "DOB": "11/09/1970",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "273518",
+    "DOB": "25/08/1971",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "273527",
+    "DOB": "07/07/1971",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "273529",
+    "DOB": "19/06/1970",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "273541",
+    "DOB": "01/02/1970",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "273545",
+    "DOB": "01/03/1971",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "273546",
+    "DOB": "29/06/1972",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "273553",
+    "DOB": "04/02/1973",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "273556",
+    "DOB": "01/12/1970",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "273563",
+    "DOB": "08/10/1971",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "273575",
+    "DOB": "27/07/1970",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "273582",
+    "DOB": "25/02/1974",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "273583",
+    "DOB": "08/09/1970",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "273587",
+    "DOB": "29/08/1970",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "273595",
+    "DOB": "16/10/1972",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "273602",
+    "DOB": "15/01/1971",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "273606",
+    "DOB": "13/06/1972",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "273613",
+    "DOB": "06/02/1970",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "273618",
+    "DOB": "03/11/1971",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "273634",
+    "DOB": "10/05/1973",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "273637",
+    "DOB": "12/04/1973",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "273638",
+    "DOB": "09/12/1972",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "273641",
+    "DOB": "17/08/1972",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "273644",
+    "DOB": "01/09/1973",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "273645",
+    "DOB": "22/05/1970",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "273647",
+    "DOB": "09/12/1971",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "273662",
+    "DOB": "12/01/1973",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "273664",
+    "DOB": "13/12/1970",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "273669",
+    "DOB": "07/04/1972",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "273674",
+    "DOB": "23/02/1974",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "273675",
+    "DOB": "18/12/1972",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "273682",
+    "DOB": "13/05/1972",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "273697",
+    "DOB": "16/06/1972",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "273705",
+    "DOB": "20/10/1970",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "273706",
+    "DOB": "12/10/1973",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "273708",
+    "DOB": "09/07/1970",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "273711",
+    "DOB": "08/04/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "273719",
+    "DOB": "16/07/1973",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "273757",
+    "DOB": "24/12/1973",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "273776",
+    "DOB": "06/09/1970",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "273781",
+    "DOB": "28/04/1971",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "273796",
+    "DOB": "20/03/1972",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "273807",
+    "DOB": "08/05/1971",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "273811",
+    "DOB": "29/03/1970",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "273823",
+    "DOB": "04/09/1973",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "273831",
+    "DOB": "05/10/1973",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "273832",
+    "DOB": "23/05/1972",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "273840",
+    "DOB": "01/07/1970",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "273849",
+    "DOB": "28/11/1971",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "273863",
+    "DOB": "23/01/1972",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "273868",
+    "DOB": "02/08/1971",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "273871",
+    "DOB": "29/03/1970",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "273924",
+    "DOB": "09/07/1971",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "273929",
+    "DOB": "28/10/1970",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "273936",
+    "DOB": "16/05/1972",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "273939",
+    "DOB": "09/09/1972",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "273941",
+    "DOB": "26/11/1972",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "273946",
+    "DOB": "03/03/1972",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "273949",
+    "DOB": "25/01/1974",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "273963",
+    "DOB": "24/05/1971",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "273966",
+    "DOB": "21/01/1970",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "273971",
+    "DOB": "26/10/1973",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "273986",
+    "DOB": "07/09/1971",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "273997",
+    "DOB": "29/07/1971",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "274008",
+    "DOB": "11/05/1971",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "274019",
+    "DOB": "05/04/1972",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "274021",
+    "DOB": "23/12/1971",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "274027",
+    "DOB": "13/12/1973",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "274029",
+    "DOB": "03/09/1970",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "274042",
+    "DOB": "06/02/1974",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "274053",
+    "DOB": "20/02/1972",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "274058",
+    "DOB": "13/07/1972",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "274073",
+    "DOB": "18/03/1971",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "274084",
+    "DOB": "10/07/1971",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "274090",
+    "DOB": "04/09/1972",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "274092",
+    "DOB": "10/05/1971",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "274093",
+    "DOB": "21/08/1972",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "274101",
+    "DOB": "01/02/1971",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "274110",
+    "DOB": "03/02/1972",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "274115",
+    "DOB": "25/03/1972",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "274124",
+    "DOB": "04/04/1973",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "274128",
+    "DOB": "10/06/1970",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "274129",
+    "DOB": "23/10/1973",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "274136",
+    "DOB": "23/02/1972",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "274138",
+    "DOB": "15/11/1973",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "274149",
+    "DOB": "12/02/1974",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "274169",
+    "DOB": "24/07/1970",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "274177",
+    "DOB": "08/08/1971",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "274180",
+    "DOB": "14/09/1970",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "274194",
+    "DOB": "24/09/1970",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "274204",
+    "DOB": "09/08/1972",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "274215",
+    "DOB": "23/01/1971",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "274219",
+    "DOB": "24/01/1974",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "274226",
+    "DOB": "23/09/1973",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "274232",
+    "DOB": "26/09/1970",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "274237",
+    "DOB": "17/03/1973",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "274241",
+    "DOB": "13/10/1972",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "274244",
+    "DOB": "18/12/1971",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "274251",
+    "DOB": "05/02/1973",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "274261",
+    "DOB": "28/04/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "274268",
+    "DOB": "21/09/1971",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "274270",
+    "DOB": "06/06/1972",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "274279",
+    "DOB": "06/11/1971",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "274281",
+    "DOB": "05/09/1972",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "274295",
+    "DOB": "25/07/1971",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "274299",
+    "DOB": "19/11/1971",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "274316",
+    "DOB": "15/03/1974",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "274325",
+    "DOB": "23/09/1973",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "274334",
+    "DOB": "01/02/1973",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "274336",
+    "DOB": "19/04/1972",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "274350",
+    "DOB": "16/05/1970",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "274356",
+    "DOB": "02/04/1973",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "274360",
+    "DOB": "14/03/1970",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "274363",
+    "DOB": "28/06/1973",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "274364",
+    "DOB": "28/04/1973",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "274369",
+    "DOB": "14/03/1973",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "274384",
+    "DOB": "22/09/1973",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "274386",
+    "DOB": "01/12/1972",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "274400",
+    "DOB": "03/12/1973",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "274402",
+    "DOB": "24/02/1972",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "274406",
+    "DOB": "15/06/1971",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "274412",
+    "DOB": "06/06/1971",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "274435",
+    "DOB": "10/02/1974",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "274438",
+    "DOB": "20/08/1972",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "274441",
+    "DOB": "22/03/1971",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "274445",
+    "DOB": "06/08/1970",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "274449",
+    "DOB": "15/12/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "274450",
+    "DOB": "24/07/1972",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "274452",
+    "DOB": "11/08/1973",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "274455",
+    "DOB": "08/09/1970",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "274483",
+    "DOB": "23/12/1973",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "274486",
+    "DOB": "29/11/1970",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "274488",
+    "DOB": "24/08/1971",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "274490",
+    "DOB": "01/06/1973",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "274493",
+    "DOB": "19/11/1970",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "274496",
+    "DOB": "11/01/1974",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "274504",
+    "DOB": "24/07/1971",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "274509",
+    "DOB": "26/12/1971",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "274517",
+    "DOB": "11/11/1971",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "274522",
+    "DOB": "10/11/1971",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "274523",
+    "DOB": "16/12/1972",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "274525",
+    "DOB": "14/10/1973",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "274535",
+    "DOB": "26/04/1970",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "274546",
+    "DOB": "26/07/1970",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "274549",
+    "DOB": "13/05/1971",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "274550",
+    "DOB": "21/02/1972",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "274551",
+    "DOB": "06/05/1971",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "274554",
+    "DOB": "03/11/1973",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "274556",
+    "DOB": "10/01/1973",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "274562",
+    "DOB": "03/12/1971",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "274567",
+    "DOB": "18/10/1972",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "274592",
+    "DOB": "08/03/1970",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "274593",
+    "DOB": "26/01/1970",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "274600",
+    "DOB": "10/01/1972",
+    "GENDER": "M",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "274602",
+    "DOB": "15/03/1970",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "274613",
+    "DOB": "02/05/1972",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "274628",
+    "DOB": "04/09/1970",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "274629",
+    "DOB": "20/10/1971",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "274630",
+    "DOB": "01/02/1970",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "274632",
+    "DOB": "13/06/1971",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "274648",
+    "DOB": "13/02/1973",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "274653",
+    "DOB": "26/05/1972",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "274662",
+    "DOB": "20/06/1971",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "274663",
+    "DOB": "15/07/1971",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "274666",
+    "DOB": "14/11/1973",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "274669",
+    "DOB": "11/01/1971",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "274682",
+    "DOB": "19/09/1970",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "274717",
+    "DOB": "21/02/1970",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "274733",
+    "DOB": "06/09/1973",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "274743",
+    "DOB": "06/09/1970",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "274759",
+    "DOB": "27/02/1974",
+    "GENDER": "M",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "274770",
+    "DOB": "17/06/1970",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "274773",
+    "DOB": "21/11/1971",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "274780",
+    "DOB": "01/05/1973",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "274788",
+    "DOB": "22/08/1973",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "274802",
+    "DOB": "28/10/1971",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "274807",
+    "DOB": "28/03/1971",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "274818",
+    "DOB": "08/05/1971",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "274834",
+    "DOB": "02/04/1970",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "274837",
+    "DOB": "09/06/1971",
+    "GENDER": "F",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "274839",
+    "DOB": "19/03/1971",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "274849",
+    "DOB": "09/06/1970",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "274865",
+    "DOB": "18/10/1970",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "274866",
+    "DOB": "23/07/1973",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "274868",
+    "DOB": "14/06/1973",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "274885",
+    "DOB": "29/01/1972",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "274892",
+    "DOB": "05/07/1970",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "274895",
+    "DOB": "16/01/1974",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "274913",
+    "DOB": "02/02/1971",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "274927",
+    "DOB": "06/10/1971",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "274931",
+    "DOB": "10/06/1972",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "274939",
+    "DOB": "24/01/1972",
+    "GENDER": "F",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "274941",
+    "DOB": "29/01/1974",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "274946",
+    "DOB": "14/10/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "274960",
+    "DOB": "24/04/1971",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "274978",
+    "DOB": "26/02/1971",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "274990",
+    "DOB": "10/01/1971",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "275006",
+    "DOB": "01/02/1972",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "275007",
+    "DOB": "29/07/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "275014",
+    "DOB": "12/08/1970",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "275023",
+    "DOB": "09/03/1971",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "275033",
+    "DOB": "21/10/1971",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "275034",
+    "DOB": "18/01/1970",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "275036",
+    "DOB": "11/03/1972",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "275043",
+    "DOB": "08/11/1972",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "275046",
+    "DOB": "10/03/1973",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "275060",
+    "DOB": "27/02/1974",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "275064",
+    "DOB": "13/11/1973",
+    "GENDER": "F",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "275082",
+    "DOB": "11/07/1972",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "275084",
+    "DOB": "21/01/1974",
+    "GENDER": "F",
+    "CITY_CODE": "7"
+  },
+  {
+    "CUSTOMER_ID": "275088",
+    "DOB": "23/06/1972",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "275091",
+    "DOB": "26/03/1973",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "275098",
+    "DOB": "29/11/1971",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "275104",
+    "DOB": "18/08/1971",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "275108",
+    "DOB": "04/11/1971",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "275111",
+    "DOB": "12/01/1971",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "275116",
+    "DOB": "29/06/1970",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "275123",
+    "DOB": "23/11/1970",
+    "GENDER": "M",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "275126",
+    "DOB": "02/01/1974",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "275134",
+    "DOB": "02/09/1970",
+    "GENDER": "F",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "275136",
+    "DOB": "06/04/1973",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "275148",
+    "DOB": "03/09/1971",
+    "GENDER": "F",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "275152",
+    "DOB": "16/01/1970",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "275158",
+    "DOB": "01/03/1972",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "275166",
+    "DOB": "05/11/1970",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "275171",
+    "DOB": "09/02/1974",
+    "GENDER": "F",
+    "CITY_CODE": "9"
+  },
+  {
+    "CUSTOMER_ID": "275172",
+    "DOB": "16/03/1971",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "275174",
+    "DOB": "27/05/1971",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "275190",
+    "DOB": "02/11/1971",
+    "GENDER": "M",
+    "CITY_CODE": "6"
+  },
+  {
+    "CUSTOMER_ID": "275200",
+    "DOB": "04/12/1970",
+    "GENDER": "M",
+    "CITY_CODE": "8"
+  },
+  {
+    "CUSTOMER_ID": "275204",
+    "DOB": "24/01/1973",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "275210",
+    "DOB": "13/09/1973",
+    "GENDER": "M",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "275226",
+    "DOB": "26/10/1973",
+    "GENDER": "M",
+    "CITY_CODE": "4"
+  },
+  {
+    "CUSTOMER_ID": "275232",
+    "DOB": "27/01/1972",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "275233",
+    "DOB": "17/03/1973",
+    "GENDER": "M",
+    "CITY_CODE": "5"
+  },
+  {
+    "CUSTOMER_ID": "275236",
+    "DOB": "08/06/1972",
+    "GENDER": "F",
+    "CITY_CODE": "2"
+  },
+  {
+    "CUSTOMER_ID": "275246",
+    "DOB": "25/06/1970",
+    "GENDER": "M",
+    "CITY_CODE": "3"
+  },
+  {
+    "CUSTOMER_ID": "275250",
+    "DOB": "02/05/1970",
+    "GENDER": "F",
+    "CITY_CODE": "1"
+  },
+  {
+    "CUSTOMER_ID": "275261",
+    "DOB": "21/03/1973",
+    "GENDER": "F",
+    "CITY_CODE": "10"
+  },
+  {
+    "CUSTOMER_ID": "275262",
+    "DOB": "06/06/1973",
+    "GENDER": "M",
+    "CITY_CODE": "10"
+  }
+]
